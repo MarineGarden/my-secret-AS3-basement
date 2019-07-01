@@ -1,0 +1,4 @@
+12:31am.
+constructor of 1 class has been written : ColorRectangle
+version 1
+
