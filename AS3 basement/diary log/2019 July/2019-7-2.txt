@@ -2,3 +2,6 @@
 constructor of 1 class has been written : ColorRectangle
 version 1
 
+1:26am.
+trying to add "change color" this ability.
+version 2
